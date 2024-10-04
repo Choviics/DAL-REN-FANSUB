@@ -27,7 +27,9 @@ Quiero expresar mi agradecimiento a esta persona, cuya herramientas y contribuci
 
 - [SuperSonic16 (thesupersonic16)](https://github.com/thesupersonic16)
 
-Sin su valiosa ayuda, este proyecto no sería una realidad.
+También me gustaría mencionar la ubicación del código y el repositorio que utilicé para realizar la traducción de Date A Live: Rio Reincarnation al español, en la que trabajé anteriormente.
+
+- [Date A Live: Rio Reincarnation](https://github.com/christ-gm/DAL_FANSUB)
 
 ## Enlaces
 
